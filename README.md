@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @MohammedDaniyalRaza
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning Type Script
-- 💞️
-- 😄 Pronouns: Male
-- ⚡ Fun fact: I'm A Child
-- 
+Hi there! 👋
+I'm Daniyal, a passionate web developer from Pakistan.
+- 🔭 Working on responsive web projects.
+- 🌱 Currently learning APIs and Next.js.
+- 💼 Offering web development, video editing, and graphic design services.
 
-<!---
-MohammedDaniyalRaza/MohammedDaniyalRaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+  
