@@ -9,12 +9,15 @@
 </p>
 
 ---
+## 👨‍💻 About Me
 
-### 🧠 About Me:
-- 🔭 Currently building web apps using Next.js, React, Tailwind, TypeScript, and MongoDB  
-- 🌱 Learning OpenAI Agents SDK, AI Agents, and Agentic AI  
-- ⚡ Fun Fact: I love turning complex ideas into real-world digital solutions  
-- 🚀 Portfolio: [daniyalrazaportfolio.vercel.app](https://daniyalrazaportfolio.vercel.app/)
+Hey there! 👋 I'm **Mohammed Daniyal Raza**, a passionate **Full Stack Developer** based in Karachi 🇵🇰  
+I love turning ideas into real-world web experiences using modern technologies like **Next.js**, **TailwindCSS**, **MongoDB**, and more.
+
+💡 Currently exploring the world of **AI Agents** and the **OpenAI Agent SDK**  
+🎯 Always ready for challenging opportunities & collaborations  
+🌐 Checkout my work at: [Portfolio](https://daniyalrazaportfolio.vercel.app/)
+
 
 ---
 
@@ -68,10 +71,13 @@
 
 ---
 
-### 🌐 Let's Connect:
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> • 
-  <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> • 
-  <a href="https://instagram.com/your-instagram" target="_blank">Instagram</a> • 
-  <a href="mailto:qadrimohammeddaniyalraza@gmail.com">Email</a>
-</p>
+## 🌐 Let's Connect
+
+Feel free to reach out to me for collaborations, freelance projects, or just to say hi! 😊  
+
+📫 **Email:** [qadrimohammeddaniyalraza@gmail.com](mailto:qadrimohammeddaniyalraza@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/YOUR-USERNAME](https://linkedin.com/in/YOUR-USERNAME)  
+🐦 **Twitter:** [twitter.com/YOUR-USERNAME](https://twitter.com/YOUR-USERNAME)  
+📸 **Instagram:** [instagram.com/YOUR-USERNAME](https://instagram.com/YOUR-USERNAME)  
+🌐 **Portfolio:** [daniyalrazaportfolio.vercel.app](https://daniyalrazaportfolio.vercel.app/)
+
