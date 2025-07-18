@@ -63,8 +63,8 @@
 ## 🌐 Let’s Connect
 
 <div align="center">
-  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/mohammed-daniyal-raza-aa26b22ba/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-daniyal-raza-aa26b22ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/daniyalrazaqa" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
   <a href="https://instagram.com/YOUR-INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
   <a href="mailto:qadrimohammeddaniyalraza@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
