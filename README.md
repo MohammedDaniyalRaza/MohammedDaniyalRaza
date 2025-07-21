@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Welcome to My Digital World 👨‍💻</h1>
+<h1 align="center">Welcome to My World 👨‍💻</h1>
 
 <p align="center">
   Turning complex ideas into clean and impactful web experiences ✨  
