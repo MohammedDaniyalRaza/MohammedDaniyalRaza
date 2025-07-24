@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MohammedDaniyalRaza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohammed+Daniyal+Raza;Full+Stack+Developer+from+Karachi%2C+Pakistan;AI+Agent+Explorer+%F0%9F%A4%96;Passionate+about+building+cool+stuff+%F0%9F%9A%80" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohammed+Daniyal+Raza;Full+Stack+Developer;Front-end+Engineer;AI+Agent+Explorer+%F0%9F%A4%96;Passionate+about+building+cool+stuff+%F0%9F%9A%80" alt="Typing Animation" />
   </a>
 </p>
 
