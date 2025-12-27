@@ -17,7 +17,6 @@
 
 - 🧠 Full Stack Web Developer (React, Next.js, MongoDB, Tailwind CSS)
 - 🤖 Exploring AI Agents, Agentic AI, and OpenAI SDK
-- 🛠 Founder of UXU Tech — helping businesses grow digitally
 - 🌍 Based in Karachi, Pakistan
 - 🎯 Mission: Craft solutions that speak for themselves
 - 💼 Portfolio: [daniyalrazaportfolio.vercel.app](https://daniyalrazaportfolio.vercel.app/)
