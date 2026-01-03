@@ -19,7 +19,7 @@
 - 🤖 Exploring AI Agents, Agentic AI, and OpenAI SDK
 - 🌍 Based in Karachi, Pakistan
 - 🎯 Mission: Craft solutions that speak for themselves
-- 💼 Portfolio: [daniyalrazaportfolio.vercel.app](https://daniyalrazaportfolio.vercel.app/)
+- 💼 Portfolio: [https://muhammaddaniyal.vercel.app/](https://muhammaddaniyal.vercel.app/)
 
 ---
 
